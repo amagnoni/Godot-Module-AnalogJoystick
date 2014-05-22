@@ -45,7 +45,7 @@ Issues
 The joystick is initialized on godot opening but doesnt show (only after a resume).
 So we need to hide from a GDScript!
 
-After we only need to show or hide when needed!
+After, we only need to show or hide when needed!
 
 
 
