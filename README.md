@@ -8,7 +8,7 @@ for use with Godot Engine
 
 How to use
 ----------
-Recompile the Java Android project ([Android](https://github.com/okamstudio/godot/wiki/compiling_android)
+Recompile the Java Android project (https://github.com/okamstudio/godot/wiki/compiling_android)
 
 Configuring your game
 ---------------------
